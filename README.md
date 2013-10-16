@@ -1,4 +1,4 @@
 oct-free-class
 ==============
 
-Free class example repository
+October free class demonstrating GitHub.com, Git commands, and GitHub Native Apps. 
